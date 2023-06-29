@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Alan</h1>
-<h3 align="center">I am a Front-End developer; I have studied a few years at computer sciences university. Also, I have done extra courses where I have learnt web development. I've been a self-taught developer since then. Now, I'm looking forward to get my first IT job</h3>
+<h1 align="center">Hi, I'm Alan :relaxed:</h1>
+<h4 align="center">I am a Front-End developer in the making; I have studied a few years at computer sciences university. Also, I’ve done extra courses where I’ve learnt web development. I've been a self-taught developer since then. Now, I'm looking forward to get my first IT job while learning in the process. </h3>
 
-- I’m currently learning **English, React**
+- :books: I’m currently learning **English, React**
 
 - 📫 How to reach me **alanxavierlasco@gmail.com**
 
