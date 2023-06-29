@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alan :relaxed:</h1>
+<![banner](https://github.com/alanlasco/alanlasco/assets/61526254/ec1a03b3-15a3-4fac-85d5-78961de4edbd)
 <h3>About me: </h3>
 <h4 align="center">I'm a Front-End developer; I've studied a few years at computer sciences university. Also, I’ve done extra courses where I’ve learnt web development. I've been a self-taught developer since then. Now, I'm looking forward to get my first IT job while learning in the process. </h4>
 
