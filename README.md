@@ -4,7 +4,7 @@
 
 
 <h3>About me: </h3>
-<h4 align="center">I'm a Front-End developer; I've studied a few years at computer sciences university. Also, I’ve done extra courses where I’ve learnt web development. I've been a self-taught developer since then. Now, I'm looking forward to get my first IT job while learning in the process. </h4>
+<h4 align="center">I'm Front-End developer; I've studied a few years at computer sciences university. Also, I’ve done extra courses where I’ve learnt web development. I've been a self-taught developer since then. Now, I'm looking forward to get my first IT job while learning in the process. </h4>
 
 - :books: I’m currently learning **English, React**
 
